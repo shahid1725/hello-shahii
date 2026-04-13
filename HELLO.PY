@@ -30,3 +30,4 @@ print("TEST TMA")
 
 
 print("HELLO")
+print("HELLO")
